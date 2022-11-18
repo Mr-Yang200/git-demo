@@ -18,3 +18,4 @@ hello world!!!  hello git!!
 你好，github
 我是除作者以为的第二个人哦
 测试协作代码1
+我使用ssh进行push
